@@ -1,0 +1,13 @@
+✅ OBJETIVO DE LA TRANSFORMACIÓN (T)
+
+Tenemos varios CSV de "Carnet de Extranjería" unidos en un solo raw.csv.
+
+Ahora toca:
+
+    ✔ Limpiar datos
+    ✔ Unificar columnas
+    ✔ Corregir tipos de datos (fechas, números)
+    ✔ Eliminar nulos innecesarios
+    ✔ Eliminar duplicados
+    ✔ Estandarizar textos (mayúsculas/minúsculas)
+    ✔ Generar el archivo limpio → output/clean.csv

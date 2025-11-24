@@ -1,0 +1,23 @@
+          🔽 EXTRACT
+        Archivos CSV
+              |
+              v
+        [ RAW LAYER ] 
+         raw.csv
+              |
+              🔽 TRANSFORM
+              |
+              v
+        [ CLEAN / STAGING ]
+           clean.csv
+              |
+              🔽 LOAD
+              |
+              v
+      🏛️ DATA WAREHOUSE (MySQL)
+              |
+              🔽 BI
+              |
+              v
+       📊 POWER BI DASHBOARD
+

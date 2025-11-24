@@ -1,0 +1,12 @@
+🔷 EXTRACT (extract_carnet_extranjeria.py)
+
+En esta parte vamos a:
+
+    1- Leer todos los CSV de la carpeta /DATA.
+    2- Identificar todos los archivos con glob.
+    3- Cargar cada CSV con pandas.
+    4- Unirlos en un solo DataFrame consolidado.
+    5- Guardar ese DataFrame en /output/raw.csv.
+
+Resultado del extract:
+Un archivo grande con todo enero → noviembre, sin limpiar.

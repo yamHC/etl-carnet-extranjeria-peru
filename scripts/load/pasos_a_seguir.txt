@@ -1,0 +1,10 @@
+🔷 LOAD (load_carnet_extranjeria.py)
+
+Aquí cargamos a MySQL:
+
+    1- Conectar a MySQL con SQLAlchemy.
+    2- Crear tabla si no existe.
+    3- Insertar todo el dataset limpio.
+
+Resultado del load:
+Datos listos en tu Data Warehouse en MySQL.
